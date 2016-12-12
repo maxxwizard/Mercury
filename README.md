@@ -1,6 +1,8 @@
 # Mercury
 Speed up your lab deployments!
 
+http://aka.ms/MercuryLabs is the production website.
+
 ## Inspiration
 This project was inspired by Unfolding Lab, a lab deployment tool created by Brad Hughes, Brian Drepaul, and Matt Byrd.
 
