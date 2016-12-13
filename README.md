@@ -43,6 +43,7 @@ This project was inspired by Unfolding Lab, a lab deployment tool created by Bra
 - [ ] Exchange 2016 support
 - [ ] SharePoint 2013 support
 - [ ] SharePoint 2016 support
+- [ ] Statistics tracking
 - [ ] Accounts with historical view into labs
 - [ ] ADFS integration
 - [ ] Push integration with VMAS
